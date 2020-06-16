@@ -1,0 +1,127 @@
+/* Fonts */
+
+/* font-family: 'Gotu', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Baloo Paaji 2', cursive; */
+
+/*********************/
+
+body {
+  font-family: "Raleway";
+}
+
+#title-section {
+  background-color: #4d4646;
+  padding: 3% 10% 7%;
+
+}
+
+/* Navigation Bar */
+.navbar-nav{
+  margin-right: 5%;
+}
+
+.navbar-item {
+  margin: 0 3%;
+}
+
+.navbar-brand {
+  font-family: "Baloo Pajji 2", cursive;
+  font-weight: bold;
+  /* color: #f5eaea; Not Working?? ****/
+  /* font-size: 2rem; NOT WORKING?? ***/
+}
+
+/* Heading Section */
+.heading-section {
+  padding: 7% 0 3%;
+  color: #f5eaea;
+}
+
+.heading-txt {
+  text-align: left;
+  width: 40%;
+  color: #f5eaea;
+  line-height: 1.25;
+  font-family: "Gotu";
+  font-weight: 600;
+  font-size: 3rem;
+}
+
+.download-btn {
+  margin: 3% 1.5% 0;
+}
+
+.try-it-btn {
+  margin-top: 1.5%;
+  position: relative;
+  left: 140px;
+}
+
+.fab {
+  margin-right: 10px;
+}
+.apps{
+  text-align: right;
+  padding-right: 1%;
+}
+
+
+/* Features Section */
+#features-section {
+  text-align: center;
+  color: #5b5656;
+  padding: 4% 0;
+}
+
+.feature-item {
+  padding: 6% 10% 3%;
+  font-size: 1.5rem;
+  width: 5px;
+}
+
+.feature-item-img {
+  font-size: 3rem;
+  margin-bottom: 5%;
+  color: #7fcd91;
+}
+
+/* Carousel */
+.applications {
+  text-align: center;
+  padding: 12% 17%;
+  background-color: #4d4646;
+  color: #f5eaea;
+}
+
+.application-item {
+
+}
+
+/* Pricing Section  */
+
+
+.pricing-cards {
+  padding: 100px 0;
+}
+
+.card-header {
+  font-weight: 800;
+  color: 
+  background-color: #5b5656;
+}
+
+.card-body {
+  background-color: #4d4646;
+  color: #f5eaea;
+  font-weight: 600;
+  font-size: 17px;
+  line-height: 1.5;
+}
+
+
+/* Footer Section */
+
+.footer {
+  text-align: center;
+}
